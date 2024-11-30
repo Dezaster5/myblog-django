@@ -1,0 +1,19 @@
+# Database files
+db.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode
+.obsidian
+
+# Environment variables
+.env
+
+# Compiled Python files
+__pycache__/
+*/__pycache__/
+*.pyc
